@@ -29,7 +29,8 @@ n=int(input())
 Feedback
 
 ## Output:
-![image](https://github.com/Bosevennila/Circulate-the-values-of-N-variables/assets/144870486/200549c5-bc8f-4419-b1d6-e2b3b2ebd901)
+![image](https://github.com/Bosevennila/Circulate-the-values-of-N-variables/assets/144870486/64ae5788-2689-4b25-ab02-0c456aa9ffa6)
+
 
 
 ## Result:
